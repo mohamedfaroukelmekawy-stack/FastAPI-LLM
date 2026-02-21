@@ -2,15 +2,12 @@
 __pycache__/
 *.pyc
 
-# Virtual env
+# Virtual environment
 venv/
 
-# Environment secrets
+# Secrets
 .env
 
 # IDE
 .vscode/
 .idea/
-
-# OS
-.DS_Store
