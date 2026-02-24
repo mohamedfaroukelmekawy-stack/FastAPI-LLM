@@ -1,7 +1,4 @@
-
-=======
 #  FastAPI-LLM — AI Chat & File Analysis API
->>>>>>> main
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
@@ -52,10 +49,6 @@ Extracted content is automatically sent to the AI for analysis.
 
 ```
 app/
-<<<<<<< feat/file-upload-analysis
-├── api/        
-```
-=======
 ├── api/                # API routes
 ├── core/               # config & security
 ├── models/             # database models
@@ -245,4 +238,3 @@ GitHub: https://github.com/mohamedfaroukelmekawy-stack
 Give it a ⭐ on GitHub — it helps visibility!
 
 ---
->>>>>>> main
