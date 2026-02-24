@@ -1,5 +1,4 @@
-<<<<<<< feat/file-upload-analysis
-# FastAPI-LLM — AI Chat & File Analysis API
+
 =======
 #  FastAPI-LLM — AI Chat & File Analysis API
 >>>>>>> main
